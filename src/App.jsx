@@ -1,5 +1,5 @@
 import { AnimatePresence, motion } from "framer-motion";
-import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
+import { HashRouter, Route, Routes, useLocation } from "react-router-dom";
 import Footer from "./components/layout/Footer";
 import Navbar from "./components/layout/Navbar";
 import ScrollToTop from "./components/ui/ScrollToTop";
@@ -41,18 +41,16 @@ function AnimatedRoutes() {
 }
 
 export default function App() {
-  const basename = import.meta.env.BASE_URL.replace(/\/$/, "");
-
   return (
     <ThemeProvider>
-      <BrowserRouter basename={basename}>
+      <HashRouter>
         <div className="min-h-screen bg-surface-light text-slate-800 dark:bg-surface-dark dark:text-slate-100">
           <Navbar />
           <AnimatedRoutes />
           <Footer />
           <ScrollToTop />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     </ThemeProvider>
   );
 }
