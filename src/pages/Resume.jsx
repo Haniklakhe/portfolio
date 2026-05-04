@@ -44,9 +44,9 @@ const sections = [
     items: publications,
     mapItem: (item) => ({
       title: item.title,
-      subtitle: item.venue,
-      period: "",
-      description: "",
+      subtitle: item.journal,
+      period: item.year,
+      description: item.authors,
       bullets: [],
       link: item.link,
     }),
@@ -94,8 +94,8 @@ export default function Resume() {
           <div className="mb-10 flex flex-wrap items-center justify-between gap-4">
             <SectionTitle
               label="// RESUME"
-              heading="Professional Timeline"
-              subtitle="A structured view of education, work, and scholarly milestones."
+              heading="Professional timeline"
+              subtitle="A complete view of education, work, publications, certifications, and awards."
             />
             <Button as="a" href={profile.cvUrl} target="_blank" rel="noreferrer" variant="primary">
               Download PDF CV

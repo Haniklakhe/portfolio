@@ -9,7 +9,23 @@ export default function ProjectCard({ project }) {
       transition={{ duration: 0.25 }}
       className="card-surface relative overflow-hidden"
     >
-      <div className="h-1 w-full bg-gradient-to-r from-primary to-accent" />
+      <div className="relative overflow-hidden border-b border-slate-100 dark:border-slate-800">
+        <div className="aspect-[16/10] bg-gradient-to-br from-slate-950 via-primary to-accent p-6 text-white">
+          <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_20%,rgba(255,255,255,0.16),transparent_28%),radial-gradient(circle_at_85%_10%,rgba(255,255,255,0.14),transparent_24%),radial-gradient(circle_at_80%_85%,rgba(255,255,255,0.1),transparent_30%)]" />
+          <div className="relative flex h-full flex-col justify-between">
+            <div className="flex items-center justify-between gap-3 text-xs uppercase tracking-[0.22em] text-white/75">
+              <span>{project.category}</span>
+              <span>{project.year}</span>
+            </div>
+
+            <div className="space-y-2">
+              <p className="text-sm font-medium text-white/75">{project.role}</p>
+              <p className="text-lg font-semibold text-white/95">Research project preview</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="p-6">
         <div className="mb-4 flex items-center justify-between gap-3">
           <span className="rounded-full bg-primary/10 px-3 py-1 text-xs font-semibold text-primary dark:text-primary-light">
@@ -21,6 +37,7 @@ export default function ProjectCard({ project }) {
         </div>
 
         <h3 className="font-heading text-2xl font-bold text-slate-900 dark:text-white">{project.title}</h3>
+        {project.role ? <p className="mt-2 text-sm font-medium text-slate-500 dark:text-slate-400">{project.role}</p> : null}
         <p
           className="mt-3 text-sm leading-relaxed text-slate-600 dark:text-slate-300"
           style={{

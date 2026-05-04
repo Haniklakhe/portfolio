@@ -3,7 +3,14 @@ import Button from "../components/ui/Button";
 import SEOHead from "../components/ui/SEOHead";
 import SectionTitle from "../components/ui/SectionTitle";
 import { profile } from "../data/profile";
-import { education } from "../data/resume";
+import { awards, education } from "../data/resume";
+import { RiBookOpenLine, RiGlobalLine, RiMapPinLine } from "react-icons/ri";
+
+const highlights = [
+  { title: "Research base", value: profile.location, icon: RiMapPinLine },
+  { title: "Primary focus", value: "Hydrology, GIS, and climate resilience", icon: RiGlobalLine },
+  { title: "Approach", value: "Field data, models, and spatial analysis", icon: RiBookOpenLine },
+];
 
 export default function About() {
   return (
@@ -17,11 +24,11 @@ export default function About() {
         <div className="section-inner">
           <SectionTitle
             label="// ABOUT"
-            heading="Who I Am"
-            subtitle="A brief profile covering my background, values, and career direction."
+            heading="Who I am"
+            subtitle="A concise profile built directly from the CV, including background, interests, and career direction."
           />
 
-          <div className="grid items-start gap-12 md:grid-cols-[340px_1fr]">
+          <div className="grid items-start gap-12 lg:grid-cols-[320px_1fr]">
             <motion.div
               whileInView={{ opacity: 1, y: 0 }}
               initial={{ opacity: 0, y: 30 }}
@@ -29,13 +36,10 @@ export default function About() {
               transition={{ duration: 0.3 }}
               className="relative mx-auto w-full max-w-sm"
             >
-              <div className="absolute -inset-2 rounded-[2rem] bg-gradient-to-br from-primary to-accent p-[2px]">
-                <div className="h-full w-full rounded-[2rem] bg-white dark:bg-slate-900" />
-              </div>
               <img
                 src={profile.photo}
                 alt={profile.name}
-                className="relative z-10 h-full w-full rounded-[2rem] object-cover"
+                className="relative z-10 h-full w-full rounded-[2rem] border border-slate-200 object-cover shadow-[0_24px_70px_-35px_rgba(15,23,42,0.5)] dark:border-slate-700"
               />
             </motion.div>
 
@@ -46,6 +50,14 @@ export default function About() {
               transition={{ duration: 0.3, delay: 0.05 }}
               className="space-y-6"
             >
+              <div className="card-surface p-6">
+                <p className="text-sm uppercase tracking-[0.24em] text-slate-500">Background</p>
+                <p className="mt-3 text-slate-600 dark:text-slate-300">{profile.bio}</p>
+                <p className="mt-4 text-slate-600 dark:text-slate-300">
+                  Based in {profile.location}, I work at the intersection of hydrology, GIS, climate risk, and citizen science.
+                </p>
+              </div>
+
               {profile.longBio.map((paragraph) => (
                 <p key={paragraph} className="leading-relaxed text-slate-600 dark:text-slate-300">
                   {paragraph}
@@ -59,9 +71,14 @@ export default function About() {
                 </blockquote>
               </div>
 
-              <Button as="a" href={profile.cvUrl} target="_blank" rel="noreferrer" variant="primary">
-                Download CV
-              </Button>
+              <div className="flex flex-wrap gap-4">
+                <Button as="a" href={profile.cvUrl} target="_blank" rel="noreferrer" variant="primary">
+                  Download CV
+                </Button>
+                <Button as="link" to="/publications" variant="ghost">
+                  View Publications
+                </Button>
+              </div>
             </motion.div>
           </div>
         </div>
@@ -79,7 +96,7 @@ export default function About() {
               {education.map((item) => (
                 <div key={item.id} className="card-surface p-5">
                   <div className="mb-3 inline-flex h-10 w-10 items-center justify-center rounded-xl bg-primary/10 text-sm font-semibold text-primary">
-                    U
+                    {item.id}
                   </div>
                   <h4 className="font-semibold text-slate-900 dark:text-white">{item.degree}</h4>
                   <p className="mt-1 text-slate-600 dark:text-slate-300">{item.institution}</p>
@@ -92,19 +109,34 @@ export default function About() {
 
           <div>
             <SectionTitle
-              label="// INTERESTS"
-              heading="Current Interests"
-              subtitle="Fields and domains that motivate my work and curiosity."
+              label="// HIGHLIGHTS"
+              heading="Quick facts"
+              subtitle="A compact view of the themes that define the portfolio."
             />
-            <div className="flex flex-wrap gap-3">
-              {profile.interests.map((interest) => (
-                <span
-                  key={interest}
-                  className="rounded-full bg-indigo-500/10 px-4 py-2 text-sm font-medium text-indigo-500 dark:text-indigo-300"
-                >
-                  {interest}
-                </span>
+            <div className="grid gap-4">
+              {highlights.map(({ title, value, icon: Icon }) => (
+                <div key={title} className="card-surface flex items-start gap-4 p-5">
+                  <div className="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl bg-primary/10 text-primary">
+                    <Icon className="text-lg" />
+                  </div>
+                  <div>
+                    <p className="text-sm font-medium text-slate-500 dark:text-slate-400">{title}</p>
+                    <p className="mt-1 font-medium text-slate-900 dark:text-white">{value}</p>
+                  </div>
+                </div>
               ))}
+            </div>
+
+            <div className="mt-8 card-surface p-5">
+              <h3 className="font-heading text-xl font-bold text-slate-900 dark:text-white">Awards</h3>
+              <div className="mt-4 space-y-3 text-sm text-slate-600 dark:text-slate-300">
+                {awards.map((award) => (
+                  <div key={award.id} className="rounded-xl border border-slate-100 bg-slate-50 px-4 py-3 dark:border-slate-800 dark:bg-slate-800/50">
+                    <p className="font-semibold text-slate-900 dark:text-white">{award.title}</p>
+                    <p>{award.issuer} · {award.year}</p>
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>

@@ -9,6 +9,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import Projects from "./pages/Projects";
+import Publications from "./pages/Publications";
 import Resume from "./pages/Resume";
 import Skills from "./pages/Skills";
 
@@ -27,6 +28,7 @@ function AnimatedRoutes() {
         <Routes location={location}>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
+          <Route path="/publications" element={<Publications />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/skills" element={<Skills />} />
           <Route path="/resume" element={<Resume />} />

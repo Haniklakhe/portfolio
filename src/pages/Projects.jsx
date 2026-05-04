@@ -6,7 +6,7 @@ import SectionTitle from "../components/ui/SectionTitle";
 import { profile } from "../data/profile";
 import { projects } from "../data/projects";
 
-const filters = ["All", "Web", "Research", "Data", "Other"];
+const filters = ["All", "Research", "Consulting"];
 
 export default function Projects() {
   const [activeFilter, setActiveFilter] = useState("All");
@@ -27,8 +27,8 @@ export default function Projects() {
         <div className="section-inner">
           <SectionTitle
             label="// PROJECTS"
-            heading="Work Archive"
-            subtitle="A categorized list of projects with source code and live demos where available."
+            heading="Recent projects"
+            subtitle="Research and consulting projects derived from the CV, organized by focus area."
           />
 
           <div className="mb-8 flex flex-wrap gap-3">

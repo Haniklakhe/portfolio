@@ -29,7 +29,11 @@ html {
 
 body {
   @apply antialiased bg-white text-slate-800;
-  background-image: none;
+  background-image:
+    radial-gradient(circle at top left, rgba(18, 50, 74, 0.08), transparent 28%),
+    radial-gradient(circle at top right, rgba(15, 118, 110, 0.08), transparent 24%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(246, 248, 251, 1));
+  background-attachment: fixed;
 }
 
 /* Base transitions */
@@ -45,7 +49,7 @@ body {
   }
 
   .card-surface {
-    @apply rounded-2xl bg-white border border-slate-100 shadow-md transition-all duration-300 ease-in-out hover:-translate-y-1 hover:border-primary hover:shadow-glow;
+    @apply rounded-2xl bg-white border border-slate-100 shadow-[0_18px_50px_-28px_rgba(15,23,42,0.35)] transition-all duration-300 ease-in-out hover:-translate-y-1 hover:border-primary/40 hover:shadow-[0_22px_60px_-26px_rgba(15,23,42,0.42)];
   }
 
   .section-shell {

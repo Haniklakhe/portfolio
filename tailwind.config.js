@@ -6,23 +6,23 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#6366f1",
-          light: "#818cf8",
-          dark: "#4f46e5",
+          DEFAULT: "#12324a",
+          light: "#1d4f73",
+          dark: "#091b2a",
         },
         accent: {
-          DEFAULT: "#06b6d4",
-          light: "#22d3ee",
+          DEFAULT: "#0f766e",
+          light: "#14b8a6",
         },
         surface: {
-          light: "#f8fafc",
-          dark: "#0f172a",
-          card: "#1e293b",
+          light: "#f6f8fb",
+          dark: "#0b1320",
+          card: "#162235",
         },
       },
       fontFamily: {
         sans: ["Inter", "sans-serif"],
-        heading: ["Syne", "sans-serif"],
+        heading: ["Poppins", "sans-serif"],
       },
       animation: {
         aurora: "aurora 8s ease-in-out infinite alternate",

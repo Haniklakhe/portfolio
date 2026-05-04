@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { RiGithubLine, RiLinkedinBoxLine, RiTwitterXLine } from "react-icons/ri";
+import { RiLinkedinBoxLine, RiMailLine, RiMapPinLine, RiPhoneLine, RiTwitterXLine } from "react-icons/ri";
 import { SiGooglescholar, SiResearchgate } from "react-icons/si";
 import SEOHead from "../components/ui/SEOHead";
 import SectionTitle from "../components/ui/SectionTitle";
@@ -7,7 +7,6 @@ import Button from "../components/ui/Button";
 import { profile } from "../data/profile";
 
 const socials = [
-  { key: "github", href: profile.socials.github, icon: RiGithubLine, label: "GitHub" },
   { key: "linkedin", href: profile.socials.linkedin, icon: RiLinkedinBoxLine, label: "LinkedIn" },
   {
     key: "googleScholar",
@@ -85,33 +84,55 @@ export default function Contact() {
         <div className="section-inner">
           <SectionTitle
             label="// CONTACT"
-            heading="Let's Build Something Meaningful"
-            subtitle="Reach out for collaborations, internships, or research opportunities."
+            heading="Get in touch"
+            subtitle="Reach out for collaborations, research discussions, consulting opportunities, or speaking engagements."
           />
 
-          <div className="grid gap-10 lg:grid-cols-2">
-            <div className="card-surface p-6">
-              <h3 className="font-heading text-2xl font-bold text-slate-900 dark:text-white">Contact Info</h3>
-              <div className="mt-6 space-y-4 text-slate-600 dark:text-slate-300">
-                <p>
-                  Email: <a className="text-primary" href={`mailto:${profile.email}`}>{profile.email}</a>
-                </p>
-                <p>Location: {profile.location}</p>
+          <div className="grid gap-10 lg:grid-cols-[0.9fr_1.1fr]">
+            <div className="space-y-6">
+              <div className="card-surface p-6">
+                <h3 className="font-heading text-2xl font-bold text-slate-900 dark:text-white">Contact info</h3>
+
+                <div className="mt-5 space-y-4 text-slate-600 dark:text-slate-300">
+                  <a className="focus-ring inline-flex items-center gap-3 rounded-xl px-1 py-1 text-primary" href={`mailto:${profile.email}`}>
+                    <RiMailLine />
+                    <span>{profile.email}</span>
+                  </a>
+                  <p className="inline-flex items-center gap-3">
+                    <RiPhoneLine />
+                    <span>{profile.phone}</span>
+                  </p>
+                  <p className="inline-flex items-center gap-3">
+                    <RiMapPinLine />
+                    <span>{profile.location}</span>
+                  </p>
+                </div>
+
+                <div className="mt-6 flex flex-wrap gap-3">
+                  {availableSocials.map(({ key, href, icon: Icon, label }) => (
+                    <a
+                      key={key}
+                      href={href}
+                      target="_blank"
+                      rel="noreferrer"
+                      aria-label={label}
+                      className="focus-ring inline-flex h-11 w-11 items-center justify-center rounded-full border border-slate-300 text-slate-600 transition-all duration-300 hover:border-primary hover:text-primary hover:shadow-glow dark:border-slate-700 dark:text-slate-300"
+                    >
+                      <Icon className="text-lg" />
+                    </a>
+                  ))}
+                </div>
+
+                <div className="mt-6">
+                  <Button as="a" href={profile.cvUrl} target="_blank" rel="noreferrer" variant="ghost">
+                    Download CV
+                  </Button>
+                </div>
               </div>
 
-              <div className="mt-6 flex flex-wrap gap-3">
-                {availableSocials.map(({ key, href, icon: Icon, label }) => (
-                  <a
-                    key={key}
-                    href={href}
-                    target="_blank"
-                    rel="noreferrer"
-                    aria-label={label}
-                    className="focus-ring inline-flex h-11 w-11 items-center justify-center rounded-full border border-slate-300 text-slate-600 transition-all duration-300 hover:border-primary hover:text-primary hover:shadow-glow dark:border-slate-700 dark:text-slate-300"
-                  >
-                    <Icon className="text-lg" />
-                  </a>
-                ))}
+              <div className="card-surface p-6">
+                <h3 className="font-heading text-xl font-bold text-slate-900 dark:text-white">Availability</h3>
+                <p className="mt-3 text-slate-600 dark:text-slate-300">{profile.availability}</p>
               </div>
             </div>
 

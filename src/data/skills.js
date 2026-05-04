@@ -1,21 +1,20 @@
-// Skills extracted from resume
 export const skills = {
   technical: [
     { name: "Python", level: 85, icon: "SiPython" },
-    { name: "AI & ML", level: 75, icon: "SiPython" },
-    { name: "Google Earth Engine", level: 70, icon: "SiPython" },
-    { name: "R (basic)", level: 55, icon: "SiPython" },
+    { name: "Google Earth Engine", level: 72, icon: "SiVscodium" },
+    { name: "R", level: 58, icon: "SiOctave" },
+    { name: "LaTeX & reporting", level: 82, icon: "SiLatex" },
   ],
   research: [
-    { name: "Spatial Analysis (QGIS/ArcGIS)", level: 85, icon: "SiQgis" },
-    { name: "Hydrological Modelling (SWAT, HEC-HMS)", level: 80, icon: "SiPython" },
-    { name: "Remote Sensing", level: 75, icon: "SiPython" },
-    { name: "Field Monitoring", level: 80, icon: "SiPython" },
+    { name: "GIS & spatial analysis", level: 90, icon: "SiGit" },
+    { name: "Hydrological modelling", level: 86, icon: "SiPython" },
+    { name: "Remote sensing", level: 78, icon: "SiVscodium" },
+    { name: "Field monitoring", level: 84, icon: "SiGit" },
   ],
   tools: [
-    { name: "Git & GitHub", level: 85, icon: "SiGit" },
-    { name: "QGIS/ArcGIS", level: 85, icon: "SiQgis" },
-    { name: "HEC-RAS / MIKE+ / SWAT", level: 70, icon: "SiPython" },
-    { name: "Google Earth Engine", level: 70, icon: "SiPython" },
+    { name: "ArcGIS / QGIS", level: 91, icon: "SiGit" },
+    { name: "HEC-RAS / SWAT / MIKE+", level: 82, icon: "SiPython" },
+    { name: "Citizen science workflows", level: 88, icon: "SiGit" },
+    { name: "Microsoft Office & LaTeX", level: 86, icon: "SiLatex" },
   ],
 };
