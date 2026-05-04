@@ -1,0 +1,244 @@
+--- PAGE 1 ---
+Hanik Lakhe
+WATER ENGiNEERiNG AND MANAGEMENT GRADUATE STUDENT ·
+Paholyothin Highway, Klong Luang, Pathum Thani 12120 Thailand
+ +66 96 520 9584 |  hlakhe123.hl@gmail.com |  haniklakhe |  haniklakhe
+”Make your life meaningful and work hard to achieve what you want in your life. ”
+Summary
+Ambitious and dedicated graduate student in Water Engineering and Management at the Asian Institute of Technology (AIT), Thailand, with over
+five years of hands‑on research experience in hydrology, environmental monitoring, GIS‑based spatial analysis, and citizen science. Skilled in
+hydrological modelling, remote sensing, and field‑based data collection across diverse environments, including Himalayan river systems and
+urban water settings in Nepal and Thailand. Proven track record of contributing to peer‑reviewed publications and presenting at international
+conferences. Experienced in leading multidisciplinary research projects from design to dissemination, with strong analytical, communication,
+and problem‑solving skills. Passionate about addressing water and climate challenges through innovative, data‑driven approaches, and com‑
+mitted to advancing sustainable water resource management within dynamic, impact‑focused organizations.
+Education
+Asian Institute of Technology Paholyothin Highway, Klong Luang,
+Pathum Thani 12120 Thailand
+MASTER iN WATER ENGiNEERiNG AND MANAGEMENT 2024 ‑ 2026
+• Got a 75 percent AIT Scholarship and 25 percent Global Water and Sanitation Center (GWSC) Scholarship + Two registration waivers
+• Got 3.87 out of 4 GPA in the coursework (based on first and second semester
+Khwopa College, Tribhuvan University Bhaktapur, Nepal
+B.SC. IN ENViRONMENTAL SCiENCE 2017 ‑ 2021
+• First Division
+• Got an Academic Merit Scholarship due to previous Intermediate (+2) Level performance and highest marks in the entrance examination
+Work Experience
+Global Water and Sanitation Center (GWSC) Pathum Thani, Thailand
+STUDENT RESEARCH ASSiSTANT June 2025 ‑ present
+• Prepare and manage geospatial datasets related to sanitation infrastructure, service coverage, and urban demographics.
+• Generate maps using ArcGIS or QGIS for CWIS city assessments, investment planning, and presentations.
+• Support spatial analysis to identify service gaps and infrastructure risks.
+• Integrate field data and geo‑referenced surveys into project dashboards or planning tools.
+• Assist in developing technical reports, knowledge products, and visual materials based on GIS outputs.
+• Participate in event preparation, Center‑wide workshops, and cross‑team documentation efforts.
+• Support other tasks assigned by the TA Hub or GWSC management team.
+Asian Infrastructure Investment Bank (AIIB) — under Dr. Srinivasan Ancha Remote
+FREELANCE GIS & CLiMATE RiSK CONSULTANT August 2025 – September 2025
+• Conducted a comprehensive climate risk assessment of road infrastructure across 10 provinces in Cambodia, supporting AIIB‑funded climate
+resilience and infrastructure planning initiatives.
+• Developed high‑resolution multi‑hazard risk maps for 38 priority road segments using advanced GIS and spatial analysis techniques.
+• Assessed five major climate hazards—flood, drought, landslide, heatwave, and coastal flooding—to evaluate both current and future risk.
+• Applied a top‑down climate modelling framework using historical baseline data (1995–2014) and future climate projections under SSP2‑4.5
+and SSP5‑8.5 scenarios for the 2040–2059 period.
+• Integrated geospatial datasets, climate model outputs, and infrastructure data to analyze identify high‑risk roads.
+• Designed and implemented a multi‑hazard risk classification framework combining multiple factors and projected climate impacts to quantify
+risk levels.
+• Generated clear, decision‑ready visualizations and maps to communicate complex climate risks to technical and non‑technical stakeholders.
+• Delivered geospatial datasets, analytical outputs, and technical documentation to support evidence‑based investment planning and climate
+adaptation strategies.
+MARCH 20, 2026 HANiK LAKHE – RESUME 1
+
+--- PAGE 2 ---
+Water Engineering and Management | School of Engineering and Technology | Asian
+Institute of Technology Pathum Thani, Thailand
+RESEARCH ASSiSTANT/ MODELER Jan 2025 ‑ Jun 2025
+• Develop water models (SWAT) for effective use in Northern Thailand.
+• Create a water security framework and identify nature‑based solutions.
+• Conduct case studies on NBS and document best practices for urban water management.
+• Organize project meetings and act as a point of contact among research partners.
+• Support fieldwork, research, teaching, and workshop activities
+Smartphones For Water Nepal Thasikhel, Nepal
+RESEARCH ASSOCiATE | RESEARCH ASSiSTANT | RESEARCH ASSiSTANT INTERN
+Jul 2022 ‑ Jul 2024 | Jan 2019 ‑ Jun 2022 |
+Jun ‑ Dec 2019
+• Managed overall S4W‑Nepal data and ensured quality control, including regular data validation and updates.
+• Facilitated a research group (Surface Water) and supported idea development, proposal writing, and implementation.
+• Conducted field data collection, site visits, and performed spatial and statistical data analysis.
+• Authored scientific articles, citizen science stories, presentations, and contributed to peer‑reviewed publications.
+• Represented S4W‑Nepal in meetings, conferences, and programs as directed by the CEO.
+• Recruited, trained, and supervised citizen scientists and volunteers, enhancing project reach and engagement.
+• Oversaw organizational programs, awareness campaigns, and managed social media platforms (Facebook, Instagram, YouTube).
+• Prepared monthly progress reports for activities, campaigns, and strategic projects, including actionable insights.
+• Strengthened collaborations with stakeholders through effective communication and outreach initiatives.
+Monitoring and Evaluating Suspended Sediment in Himalaya (MESSHI) Project
+PROJECT LEADER Jan 2023 ‑ July 2024
+• Developed and implemented project plans, monitoring protocols, and laboratory procedures for suspended sediment analysis.
+• Established a laboratory for suspended sediment determination and installed sensors at monitoring sites, ensuring real‑time data collection.
+• Led fieldwork planning, data collection efforts, and ensured meticulous data storage and management.
+• Recruited, trained, and managed a team of citizen scientists and volunteers for field and lab activities.
+• Coordinated with stakeholders, collaborators, and donors to align project goals and ensure seamless execution.
+• Authored detailed project reports, scientific publications, and contributed to conference papers to disseminate findings.
+• Prepared comprehensive progress reports and technical documentation for stakeholders, ensuring transparency and accountability.
+• Facilitated workshops and training sessions for stakeholders, fostering knowledge sharing and capacity building.
+HIMALAYAN CLIMATE DATA FIELD LAB 2024 Entrance Cafe, Patan
+PARTiCiPANT May 13th – June 7th, 2024
+• Collaborated with research groups, including Sensing and Sensors, Chitwan Flooding, AI‑Machine Learning, and Re‑imagining Resilience and
+Vulnerability.
+• Conducted vulnerability assessments and developed post‑disaster management plans for informal settlements along the Bagmati River Cor‑
+ridor using drone and 360‑degree imagery.
+• Developed a machine learning model to create a landslide susceptibility map, enhancing hazard risk analysis.
+• Participated in interactive sessions on disaster risk management, resilience building, and climate adaptation.
+• Attended workshops on GitHub, Google Earth Engine, and advanced disaster risk modeling techniques.
+• Networked with research enthusiasts and interdisciplinary professionals from over 17 countries to foster collaborations.
+• Prepared a comprehensive summary report highlighting key learnings and actionable recommendations for field applications.
+Young Researchers’ Circle Thasikhel, Nepal
+TREASURER | COORDiNATOR Apr 2020 ‑ Aug 2021 | Aug 2021 ‑ Jul 2022
+• Managed financial oversight, including budget estimation, fund mobilization, and financial reporting to ensure transparency.
+• Tracked expenses, prepared financial summaries, and provided regular updates to the executive committee.
+• Led a group of 50+ early career research enthusiasts, graduate, and undergraduate students, fostering collaborative learning.
+• Coordinated and supervised the work of YRC members, ensuring alignment with organizational goals and objectives.
+• Involved in strategic planning, project execution, and tracking progress of YRC initiatives and campaigns.
+• Maintained updated records, prepared reports, and followed up on decisions from executive committee meetings.
+• Contributed to the bimonthly ”Young Researcher” newsletter and fortnightly ”Environmental News Refresher” (ENR).
+• Organized training programs and seminars to enhance research capacity and engagement among members.
+Skills
+Programming Skills Intermediate Level Python, AI, and Machine Learning, Intermediate Level Google Earth Engine, Basic R Studio
+Spatial Analysis Tools Intermediate Level Quantum GIS and ArcGIS
+Modelling Softwares HEC‑HMS, HEC‑RAS, HEC‑Res Sim, MIKE+ 2025, SWAT , RRI, Dyna‑clue Landuse Modeling and Climate Change modeling
+Water Accounting Hydrology, field data collection, data management, benthic sampling, sorting, and identification
+Environmental Monitoring Acoustic Doppler Velocimeter, OBS sensors, Auto level, Data loggers and other equipment, Water Quality
+Basic Softwares Open Data Kit (ODK) Collect, ODK Aggregate, HOBOware, Microsoft Office Suite, and LaTeX
+Languages English, Nepali, Hindi, Newari
+MARCH 20, 2026 HANiK LAKHE – RESUME 2
+
+--- PAGE 3 ---
+Publications
+PUBLiSHED PAPER
+Prajapati, R., Karki, S., Thapa, S., Lakhe, H., Bain, D., Gardner, J. (2026). Suspended sediment dynamics in an urban, mountain catchment in
+Nepal. EGUsphere, 2026, 1‑35.
+Duwal, S., Prajapati, R., Upadhyay, S., Neupane, S., Lakhe, H., Thapa, B. R., Davids .J.C. Talchabhadel, R. (2025). Leveraging a Citizen Science
+Approach for Rainfall Monitoring: Evaluating Performance and Reliability To Complement Standard Datasets. Earth Systems and Environment,
+1‑16.
+Upadhyay, S., Silwal, P ., Prajapati, R., Talchabhadel, R., Shrestha, S., Duwal, S. and Lakhe, H. (2022) Evaluating Magnitude Agreement and Oc‑
+currence Consistency of CHIRPS Product with Ground‑Based Observations over Medium‑Sized River Basins in Nepal. Hydrology, 9(8), pp.146.
+Available at DOI: https://doi.org/10.3390/hydrology9080146
+Kindermann, P .E., Brouwer, W.S., van Hamel, A., van Haren, M., Verboeket, R.P ., Nane, G.F.,Lakhe, H., Prajapati, R. and Davids, J.C. (2020) Return
+level analysis of the Hanumante river using structured expert judgment: A reconstruction of historical water levels. Water, 12(11), pp. 3229.
+Available at DOI: https://doi.org/10.3390/w12113229
+IN PROGRESS
+Anticipating Extreme Temperature Indices in Nepal: Insights from the CMIP6 Climate Model Assessment.
+Conference proceedings
+Prajapati, R., Gardner, J., Lakhe, H. (2024, June). Linking satellite, sensor, and citizen science to understand sediment dynamics in Himalayan
+rivers. In Water Science Conference (WaterSciCon24 (No. 227, pp. 223‑227).
+Duwal, S., Lakhe, H., Neupane, S., Prajapati, R. (2024, June). Evaluating Citizen Scientist’s Performance on Water Resources Observation in the
+Kathmandu Valley. In Water Science Conference (WaterSciCon24 (No. 24, pp. 312‑024).
+Prajapati, R., Gardner, J. and Lakhe, H., 2023. Quantifying Suspended Sediment Flux in Himalayan Rivers of Nepal using Citizen Science and
+Low‑Cost Sensors. AGU23.
+Mandal, R.B., Shakya, S., Ghale, B., Lakhe, H., Duwal, S. and Shakya, B., 2023. Assessing Groundwater Level and Water Quality in Bhaktapur
+Municipality: A Pre‑Monsoon and Post‑Monsoon Analysis. Khwopa Journal, 5(2), pp.74‑90.
+Shakya S., Ghale B., Lakhe,H., Duwal S., Chalise A., Mandal B.R., and Shakya, M.B., (2022). Hiti System in Bhaktapur: An Evaluation of its Current
+Status and Importance KEC Conference 2023.
+Lakhe, H., Silwal, P ., Chalise, A., Duwal, S., Shakya, S., Prajapati, R., and Shakya, B. M. (2022, December) Application of Water Quality Index for
+Groundwater Quality Assessment and its Perspective among the Urban Dwellers of the Kathmandu Valley, Nepal. In Fall Meeting 2022. AGU.
+Mandal, R. B.,Lakhe, H., Duwal, S., Chalise, A., Shakya, S., Prajapati, R. and Shakya, B. M. (2022, December) Evaluation of Interconnection between
+Streamflow and Rainfall in Headwater Streams of the Kathmandu Valley. In Fall Meeting 2022. AGU.
+Duwal, S., Shakya, B.M, Chalise, A., Lakhe, H., Prajapati, R. and Talchabhadel, R. (2022, December) Evaluation of Citizen Science‑Based Rainfall
+Data with Standard Ground‑Based Rain Gauge and Remotely Sensed Rainfall Data in Kathmandu Valley. In Fall Meeting 2022. AGU.
+Shakya, S., Lakhe, H., Chalise, A., Duwal, S., Silwal, P ., Prajapati, R., Shakya, B. M. (2022, December) Assessment of the Seasonal Interaction
+between Streams and Aquifers of the Kathmandu Valley. In Fall Meeting 2022. AGU.
+Ghale, B., Lakhe, H., Duwal, S., and Shakya, B. M. (2022, December) Convective clouds and associated severe weather events over Kathmandu
+Valley, Nepal. In Fall Meeting 2022. AGU.
+Lakhe,H., Silwal, P ., Duwal, S., Chalise, A., Shakya S. and Shakya, M.B., (2022). Application of the Water Quality Index (WQI) for Irrigational Water
+Quality Assessment of the Hanumante River. KEC Conference 2022.
+Chalise A., Silwal, P ., Lakhe,H., Duwal, S., Shakya S. and Shakya, M.B., (2022). Evaluating the Influence of Rainfall and Land Use Type on the
+Shallow Groundwater Level Fluctuations of Bhaktapur District. KEC Conference 2022.
+Lakhe,H., Silwal, P ., Duwal, S., Prajapati, R., Shakya, S., and Davids, J.C., (2021), December. Estimation of the Total Baseflow of the Kathmandu
+Valley Using Monthly Streamflow Measurements from a Sub‑Sample of Headwater Catchments. In AGU Fall Meeting 2021. AGU.
+Silwal, P ., Upadhyay, S., Duwal, S.,Lakhe,H., Prajapati, R. and Talchabhadel, R., (2021), December. Evaluation and Comparison of Satellite Based‑
+Rainfall Product and Ground Rain Gauge Observations over Five Basins of Nepal. In AGU Fall Meeting 2021. AGU.
+Duwal, S., Chalise, A., Prajapati, R., Silwal, P ., Lakhe,H., Talchabhadel, R., (2021), December. Citizen Scientists Measure Rainfall of Kathmandu
+Valley Comparable to Ground‑Based Rain Gauge Observations and Satellite Rainfall Estimates. In AGU Fall Meeting 2021. AGU.
+MARCH 20, 2026 HANiK LAKHE – RESUME 3
+
+--- PAGE 4 ---
+Lakhe,H., Silwal, P ., Duwal, S., Chalise, A. and Prajapati, R., (2020). Assessing the linkage between streamflow and rainfall in the headwater
+streams of the Kathmandu Valley. KEC Conference 2020.
+Duwal, S., Silwal, P ., Lakhe,H., Chalise, A. and Prajapati, R., (2020). Reliability of Citizen Science‑based Rainfall Monitoring in the Kathmandu
+Valley. KEC Conference 2020.
+Lakhe,H., Upadhyay, S., Thapa, A.B., Prajapati, R. and Davids, J.C., (2019). Observing our Headwaters: Lessons from 2 Years of Community
+Monitoring of the Upper Bagmati and Nagmati Watersheds, 4th International Conference on Mountains in the Changing World, Kathmandu,
+Nepal, 18‑19 October 2019
+Academic Projects & Coursework
+MASTER OF SCiENCE iN WATER ENGiNEERiNG AND MANAGEMENT
+Asian Institute of Technology (AIT), Thailand (2024–present)
+MASTER’S THESiS
+Towards Future Flood Hazard Mapping under Climate and Land Use Change Using Integrated LSTM and HEC‑RAS Modeling: Karnali River Basin,
+Nepal.
+Academic Advisor: Prof. Dr. Sangam Shrestha
+Tools: LSTM (Deep Learning), HEC‑RAS, GIS, Climate & Land Use Change Modelling
+Status: Ongoing
+TERM REPORTS
+1. Landslide Susceptibility Mapping in Nepal Using Machine Learning and NASA’s Global Landslide Catalog.
+2. A Novel Metric‑Based Assessment of Drought Stress: A Case Study in Chiang Rai Province, Thailand (2000–2021). Developed a composite
+drought stress metric using multi‑source remote sensing and ground‑based data over a 21‑year period.
+COURSE PROJECTS
+1. Assessing the Risk of Failure of Water Supply System during the Dry Season in Kelani River Basin, Sri Lanka. Evaluated dry‑season supply
+reliability and identified critical failure points in the Kelani River water supply network.
+2. Reservoir System Operation Studies for Development of Proposed Power Plant in Saraburi Province, Pasak River Basin, Thailand. Simulated
+reservoir operation scenarios to optimize water release strategies for hydropower generation using HEC‑ResSim.
+3. Hydrodynamic Modelling of Lower Chao Phraya River Basin, Thailand using MIKE+ River. Built and calibrated a 1D hydrodynamic model of
+the Lower Chao Phraya to simulate flood inundation extents and water levels.
+4. Stream Water Quality Modelling using Qual‑2K Model. Applied the Qual‑2K model to simulate dissolved oxygen, BOD, and nutrient dynamics
+along a stream reach under varying pollution loads.
+5. Groundwater Flow Modelling using Visual MODFLOW. Constructed a 3D groundwater flow model using Visual MODFLOW to simulate aquifer
+behaviour and assess recharge and discharge zones.
+RELEVANT COURSEWORK
+Watershed Hydrology, Hydrodynamics, Water Resources Systems, Concepts in Water Modelling, AI & Big Data in Water, Research Design and
+Experimental Methods, Groundwater Development and Management, Modelling of Water Resources Systems, Earth Engine for Water Resources
+Monitoring and Management, Hydroinformatics and Modern Hydrological Modelling.
+BACHELOR OF SCiENCE iN ENViRONMENTAL SCiENCE
+Khwopa College, Tribhuvan University, Nepal (2017–2021)
+BACHELOR’S THESiS
+Assessment of Water Quantity and Quality of Traditional Stone Spouts (’Hitis’) of the Bhaktapur Municipality.
+Academic Advisor: Mrs. Meera Prajapati
+Tools: GIS and Water Quality Index (WQI)
+TERM REPORTS
+MARCH 20, 2026 HANiK LAKHE – RESUME 4
+
+--- PAGE 5 ---
+1. Initial Environmental Examination (IEE) of Upper Khimti Hydropower Project (7 MW), Dolakha and Ramechhap, Bagmati Province, Nepal.
+Conducted a systematic IEE covering baseline environmental conditions, impact prediction, and mitigation measures for a proposed run‑of‑
+river hydropower scheme in the Bagmati Province.
+RELEVANT COURSEWORK
+Introduction to Environmental Science, Fundamental Environmental Science, Climate Change, Environmental Pollution & Management, Solid
+Waste Management, Res. & Biodiversity Conservation, Pollution Monitoring & Control, Scientific Communication, Research Methodology and
+Applied Statistics
+Selected Award
+AGU Fall Meeting Travel Grant American Geophysical Union,
+Washington, USA
+GRANTEE 2021
+MoChWo Scholarship Kathmandu Institute of Applied
+Sciences, Kathmandu, Nepal
+SCHOLARSHiP HOLDER 2019
+Mahatma Gandhi Scholarship Indian Embassy, Kathmandu, Nepal
+SCHOLOARSHiP HOLDER 2015
+References
+Prof. Dr. Sangam Shrestha
+Professor, Water Engineering and Management, Faculty of Civil and Environmental Engineering, Asian Institute of Technology (AIT)
+Email: sangam@ait.ac.th
+Contact No: +66 2 524 6055
+Dr. Rocky Talchabhadel
+Assistant Professor, Jackson State University
+Vice President at Smartphones For Water Nepal (S4W‑Nepal)
+Email: rocky.talchabhadel@jsums.edu, rocky.ioe@gmail.com
+Dr. Srinivasan Ancha
+Advisor (Agriculture, Food, Nature, and Rural Development), Asian Development Bank (ADB)
+Senior Fellow, Institute for Global Environmental Strategies (IGES)
+Email: anchasrinivasan@hotmail.com
+Contact No: +66 0988594190
+Dr. Sanjiv Neupane
+CEO at Smartphones For Water Nepal (S4W‑Nepal) (Formerly)
+Data Innovation Hub Manager, Global Water and Sanitation Center (GWSC)
+Email: sanjiv@smartphones4water.org
+Contact No: +977 9801324916
+MARCH 20, 2026 HANiK LAKHE – RESUME 5

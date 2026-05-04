@@ -1,31 +1,31 @@
 // ✏️ EDIT THIS FILE with your personal information
 export const profile = {
-  name: "Your Full Name", // ✏️ EDIT
-  initials: "YN", // ✏️ EDIT: shown in navbar logo
-  title: "Computer Science Student", // ✏️ EDIT
-  subtitle: "Researcher · Developer · Problem Solver", // ✏️ EDIT
-  bio: "Short intro paragraph shown on home page.", // ✏️ EDIT
+  name: "Hanik Lakhe",
+  initials: "HL",
+  title: "MSc Water Engineering & Management (AIT)",
+  subtitle: "Water Resources Researcher · Hydrology · GIS",
+  bio: "Graduate student and researcher specializing in hydrology, GIS-based spatial analysis, and environmental monitoring.",
   longBio: [
-    "First paragraph of your detailed bio for About page.", // ✏️ EDIT
-    "Second paragraph adding more personal context.", // ✏️ EDIT
+    "Ambitious and dedicated graduate student in Water Engineering and Management at the Asian Institute of Technology (AIT), with over five years of hands-on research experience in hydrology, environmental monitoring, GIS-based spatial analysis, and citizen science.",
+    "Skilled in hydrological modelling, remote sensing, and field-based data collection across diverse environments. Passionate about data-driven approaches to water and climate challenges, and experienced in leading research projects from design to dissemination.",
   ],
-  photo: "/assets/profile.jpg", // ✏️ EDIT: path to your photo
-  email: "your.email@example.com", // ✏️ EDIT
-  location: "Your City, Country", // ✏️ EDIT
-  cvUrl: "/cv.pdf", // ✏️ EDIT: path to your CV
-  availability: "Open to internships & research opportunities", // ✏️ EDIT or remove
+  photo: "/assets/profile.jpg",
+  email: "hlakhe123.hl@gmail.com",
+  location: "Pathum Thani, Thailand",
+  cvUrl: "/cv.pdf",
+  availability: "Open to research and consulting opportunities",
   socials: {
-    github: "https://github.com/yourusername", // ✏️ EDIT — leave "" to hide
-    linkedin: "https://linkedin.com/in/yourusername", // ✏️ EDIT
-    googleScholar: "", // ✏️ EDIT — leave "" to hide
-    researchGate: "", // ✏️ EDIT — leave "" to hide
-    twitter: "", // ✏️ EDIT — leave "" to hide
+    github: "",
+    linkedin: "https://linkedin.com/in/haniklakhe",
+    googleScholar: "",
+    researchGate: "",
+    twitter: "",
   },
   interests: [
-    "Machine Learning", // ✏️ EDIT
-    "Web Development", // ✏️ EDIT
-    "Data Science", // ✏️ EDIT
-    "Academic Research", // ✏️ EDIT
+    "Hydrology",
+    "GIS & Remote Sensing",
+    "Environmental Monitoring",
+    "Climate Resilience",
   ],
-  careerGoal: "A paragraph describing your career goals and aspirations.", // ✏️ EDIT
+  careerGoal: "Advance research and practical solutions in water resources and climate resilience through applied modelling, field monitoring, and stakeholder engagement.",
 };

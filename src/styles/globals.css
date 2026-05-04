@@ -28,9 +28,8 @@ html {
 }
 
 body {
-  @apply antialiased;
-  background-image: radial-gradient(circle at 20% 10%, rgba(99, 102, 241, 0.08), transparent 35%),
-    radial-gradient(circle at 80% 0%, rgba(6, 182, 212, 0.08), transparent 35%);
+  @apply antialiased bg-white text-slate-800;
+  background-image: none;
 }
 
 /* Base transitions */
@@ -46,7 +45,7 @@ body {
   }
 
   .card-surface {
-    @apply rounded-2xl bg-white border border-slate-100 shadow-sm transition-all duration-300 ease-in-out dark:bg-slate-800 dark:border-slate-700 hover:-translate-y-1 hover:border-primary hover:shadow-glow;
+    @apply rounded-2xl bg-white border border-slate-100 shadow-md transition-all duration-300 ease-in-out hover:-translate-y-1 hover:border-primary hover:shadow-glow;
   }
 
   .section-shell {

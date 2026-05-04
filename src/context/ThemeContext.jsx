@@ -11,7 +11,7 @@ const getInitialTheme = () => {
   if (stored === "dark") return true;
   if (stored === "light") return false;
 
-  return window.matchMedia("(prefers-color-scheme: dark)").matches;
+  return false; // Default to light theme
 };
 
 export function ThemeProvider({ children }) {
